@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 146, 201);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
